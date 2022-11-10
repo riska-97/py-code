@@ -23,4 +23,4 @@ Curriculum
 - Detecting & Filtering Outliers
 - :clapper: [Lecture videos](https://www.youtube.com/watch?v=3LXw9ohVXWY)
 - :desktop_computer: [Lecture slides](https://drive.google.com/file/d/1egGiUiNxRP4MRuXrgT6IwAU4iE0vrkVD/view)
-- :snake: [Notebook Files](py-code/code_challenge.py)
+- :snake: [Notebook Files](Code_Challenge.ipynb)
